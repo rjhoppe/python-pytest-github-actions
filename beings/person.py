@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from typing import Collection
 
 class Person:
@@ -23,4 +25,3 @@ class Person:
   def add_job(self, title: str) -> None:
     self.jobs.append(title)
 
-    

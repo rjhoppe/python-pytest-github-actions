@@ -1,0 +1,3 @@
+Use pytest fixtures to reduce redundancies in code
+
+Use "python -m pytest" instead of "pytest"
